@@ -1,6 +1,6 @@
 ## Hello World! 🌏
 
-I am a software engineer in Vietnam
+I am a programmer in Vietnam
 
 I mainly work on physics simulation, game engine and robotics, my favourite language is C++ but I also know C# and Python. Aside from that, I also make video games as a hobby on the side, my main game engine is [Godot](https://github.com/godotengine/godot) but I also have experience working in Unity.
 
