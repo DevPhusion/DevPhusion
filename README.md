@@ -6,7 +6,7 @@ I mainly work on physics simulation, game engine and robotics, my favourite lang
 
 I've been coding ever since I was small, coding is like an art form to me, it is my way of expressing creativity
 
-I've worked on many projects, most of them are private however I do make some of my repositories public. My proudest work is [Fusion Engine](https://github.com/DevPhusion/FusionEngine) which I've been working on for a while.
+I've worked on many projects, most of them are private, however I do make some of my repositories public. My proudest work is [Fusion Engine](https://github.com/DevPhusion/FusionEngine) which I've been working on for a while.
 
 **Fun facts**
 - I am a big fan of anime, manga
