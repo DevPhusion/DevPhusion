@@ -13,3 +13,7 @@ I've worked on many projects, most of them are private, however I do make some o
 - I play gacha games and don't like competitive games
 - My personal hobby is running and coding
 - I prefer manually coding for my projects but do use AI assist where necessary
+
+**Contact me**
+- Discord (prefered): devphusion
+- Gmail: devphusion@gmail.com
