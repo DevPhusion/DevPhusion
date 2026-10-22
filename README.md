@@ -15,5 +15,5 @@ I've worked on many projects, most of them are private, however I do make some o
 - I prefer manually coding for my projects but do use AI assist where necessary
 
 **Contact me**
-- Discord (prefered): devphusion
+- Discord: devphusion
 - Gmail: devphusion@gmail.com
